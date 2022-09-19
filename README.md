@@ -1,5 +1,5 @@
-## Hello World 👋
-### Me chamo João Pedro Voltolini Martins, e gosto muito de programar
+##          Hello World 👋
+### Me chamo João Pedro Voltolini Martins, e estudo programação
 
 - 🔭 Atualmente trabalho como Gestor/Suporte TI
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e estudando Linguagens Front-end
