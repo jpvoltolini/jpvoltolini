@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World 👋
+### Me chamo João Pedro Voltolini Martins, e gosto muito de programar
 
-<!--
-**jpvoltolini/jpvoltolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como Gestor/Suporte TI
+- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e estudando Linguagens Front-end
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/jpvoltolini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvoltolini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvoltolini&layout=compact&langs_count=7&theme=dracula"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://github.com/jpvoltolini/jpvoltolini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
