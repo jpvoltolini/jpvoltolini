@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-478843169/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvoltolini"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvoltolini&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvoltolini&layout=compact&langs_count=7&theme="/>
 
   <div style="display: inline_block" ><br>
