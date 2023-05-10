@@ -20,6 +20,5 @@
   <img align="center" alt="JP-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="JP-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
-    
-      ![Snake animation](https://github.com/jpvoltolini/jpvoltolini/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/jpvoltolini/jpvoltolini/blob/output/github-contribution-grid-snake.svg)
 </div>
