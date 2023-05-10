@@ -5,7 +5,7 @@
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e estudando Linguagens Front-end
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-478843169/">
+  <a href="https://github.com/jpvoltolini/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvoltolini&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvoltolini&layout=compact&langs_count=7&theme=merko"/>
 
