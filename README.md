@@ -21,5 +21,5 @@
   <img align="center" alt="JP-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
     
-      ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/jpvoltolini/jpvoltolini/blob/output/github-contribution-grid-snake.svg)
 </div>
