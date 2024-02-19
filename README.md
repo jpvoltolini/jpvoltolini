@@ -1,8 +1,9 @@
 ##          Hello World 👋
 ### Me chamo João Pedro Voltolini Martins, e estudo programação
 
-- 🔭 Atualmente trabalho como Gestor/Suporte TI
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e estudando Linguagens Front-end
+- 🔭 #OpenToWork
+- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e codando em C# e .NET Core
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-478843169/">
