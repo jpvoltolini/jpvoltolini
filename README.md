@@ -1,8 +1,8 @@
 ##          Hello World 👋
 ### Me chamo João Pedro Voltolini Martins, e estudo programação
 
-- 🔭 #OpenToWork
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas, e codando em C# e .NET Core
+- 🔭 Desenvolvedor na SEF-SC
 
 
 <div align="center">
@@ -12,6 +12,7 @@
 
   <div style="display: inline_block" ><br>
   <img align="center" alt="JP-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="JP-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
     
   <img align="center" alt="JP-SqlServer" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
   <img align="center" alt="JP-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
