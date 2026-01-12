@@ -1,5 +1,5 @@
-##          Hello World 👋
-### sou João Pedro Voltolini Martins, e sou um desenvolvedor
+
+### sou João Pedro Voltolini Martins
 
 - 🌱 Formado em Analise e Desenvolvimento de Sistemas
 - 🔭 Desenvolvedor na SEF-SC
